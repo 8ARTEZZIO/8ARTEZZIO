@@ -1,42 +1,38 @@
 # 👋 Hello, I'm [Your Name]!
 
-![Profile View](https://github.com/[your_username].png?size=200) <!-- Replace with your GitHub username -->
+![Profile View](https://github.com/8ARTEZZIO.png?size=200) <!-- Replace with your GitHub username -->
 
 ## 🚀 About Me
 
-I'm a [your profession/role, e.g., software developer, data analyst, etc.] based in [your location]. I have a passion for [your interests or specialties, e.g., building applications, data science, etc.]. When I'm not coding, you can find me [your hobbies, e.g., practicing calisthenics, learning languages, exploring nature, etc.].
+I'm an aspiring software developer based in London. I have a passion for solving problems by using Python. When I'm not coding, you can find me at the gym or in a local park.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, [add others]
-- **Frameworks**: [list frameworks you use, e.g., Flask, Django]
-- **Tools**: Git, Docker, [add others]
-- **Databases**: [add databases you use, e.g., PostgreSQL, MongoDB]
+- **Languages**: Python [intermediate]
+- **Frameworks**: Django [beginner]
+- **Tools**: Git [starting]
+- **Databases**: PostgreSQL [starting]
 
 ## 🌟 Projects
 
-Here are some of my notable projects:
+<!-- Here are some of my notable -->
+Projects:
 
-- **[Project Name](link to project)**: A brief description of what it does and the technologies used.
-- **[Project Name](link to project)**: A brief description of what it does and the technologies used.
-- **[Project Name](link to project)**: A brief description of what it does and the technologies used.
+- **[AI Snake Game]([link to project](https://github.com/8ARTEZZIO/Snake-Game))**: It's a simple self-playing AI Snake Game wrote in Python. 
 
 ## 📫 Get in Touch
 
-- **Email**: [your email]
-- **LinkedIn**: [your LinkedIn profile link]
-- **Twitter**: [your Twitter handle]
-- **Personal Website**: [your website or portfolio link]
+- **Email**: [b4rte4@gmail.com]
+- **LinkedIn**: [[LinkedIn profile](https://www.linkedin.com/in/bartlomiej-kuzma-9327a52a9/)]
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your_username]&show_icons=true&hide_title=true) <!-- Replace with your GitHub username -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your_username]&layout=compact) <!-- Replace with your GitHub username -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=8ARTEZZIO&show_icons=true&hide_title=true) <!-- Replace with your GitHub username -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8ARTEZZIO&layout=compact) <!-- Replace with your GitHub username -->
 
 ## 🏆 Achievements
 
-- [Any certifications or recognitions you’ve received]
-- [Participation in hackathons or open source contributions]
+- [UDEMY: The Complete Python Bootcamp From Zero to Hero in Python]
 
 ## 🙌 Support Me
 
@@ -44,4 +40,5 @@ If you find my work helpful, consider starring my repositories or following me f
 
 ---
 
-Thanks for visiting my profile! Let's connect and build something amazing together! 😊
+Thanks for visiting my![UC-2c9c2cb7-7be5-41ef-a2eb-ce637e9c8c1d](https://github.com/user-attachments/assets/611b53d2-3919-4afa-9aaf-1df764ab0c45)
+ profile! Let's connect and build something amazing together! 😊
