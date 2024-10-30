@@ -18,7 +18,7 @@ I'm an aspiring software developer based in London. I have a passion for solving
 <!-- Here are some of my notable -->
 Projects:
 
-- **![AI Snake Game]([link to project](https://github.com/8ARTEZZIO/Snake-Game))**: It's a simple self-playing AI Snake Game wrote in Python. 
+- [AI Snake Game]([link to project](https://github.com/8ARTEZZIO/Snake-Game)): It's a simple self-playing AI Snake Game wrote in Python. 
 
 ## 📫 Get in Touch
 
