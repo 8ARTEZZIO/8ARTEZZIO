@@ -40,5 +40,5 @@ If you find my work helpful, consider starring my repositories or following me f
 
 ---
 
-Thanks for visiting my![UC-2c9c2cb7-7be5-41ef-a2eb-ce637e9c8c1d](https://github.com/user-attachments/assets/611b53d2-3919-4afa-9aaf-1df764ab0c45)
- profile! Let's connect and build something amazing together! 😊
+Thanks for visiting my profile! Let's connect and build something amazing together! 😊
+![UC-2c9c2cb7-7be5-41ef-a2eb-ce637e9c8c1d](https://github.com/user-attachments/assets/611b53d2-3919-4afa-9aaf-1df764ab0c45)
