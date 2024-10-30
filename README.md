@@ -8,15 +8,15 @@ I'm an aspiring software developer based in London. I have a passion for solving
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python [intermediate]
-- **Frameworks**: Django [beginner]
-- **Tools**: Git [starting]
-- **Databases**: PostgreSQL [starting]
+- **Languages**: Python 🐍 [intermediate]
+- **Frameworks**: Django ⌨️ [beginner]
+- **Tools**: Git 💽 [starting]
+- **Databases**: PostgreSQL 💾 [starting]
 
 ## 🌟 Projects
 
 <!-- Here are some of my notable -->
-Projects:
+Project(s):
 
 - [AI Snake Game]([link to project](https://github.com/8ARTEZZIO/Snake-Game)): It's a simple self-playing AI Snake Game wrote in Python. 
 
