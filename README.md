@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Bartek!
 
 ![Profile View](https://github.com/8ARTEZZIO.png?size=200) <!-- Replace with your GitHub username -->
 
