@@ -18,7 +18,8 @@ I'm an aspiring software developer based in London. I have a passion for solving
 <!-- Here are some of my notable -->
 Project(s):
 
-- [AI Snake Game]([link to project](https://github.com/8ARTEZZIO/Snake-Game)): It's a simple self-playing AI Snake Game wrote in Python. 
+- [AI Snake Game]([link to project](https://github.com/8ARTEZZIO/Snake-Game)): It's a simple self-playing AI Snake Game wrote in Python.
+- [Pa**rd Mngr]([link to project](https://github.com/8ARTEZZIO/Password-Manager)): Looking for a simple Password Manager? Here it is :D  
 
 ## 📫 Get in Touch
 
