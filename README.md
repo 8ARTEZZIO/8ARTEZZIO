@@ -1,17 +1,17 @@
-![Screenshot 2025-01-04 133857](https://github.com/user-attachments/assets/9e18bb7d-e935-406a-a829-c1116105afca)# 👋 Hello, I'm Bartek!
+Hello, I'm Bartek!
 
 ![Profile View](https://github.com/8ARTEZZIO.png?size=200) <!-- Replace with your GitHub username -->
 
-## 🚀 About Me
+## About Me
 
 I'm an aspiring software developer based in London. I have a passion for solving problems by using Python. When I'm not coding, you can find me at the gym or in a local park.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python 🐍 [intermediate]
-- **Frameworks**: Django ⌨️ [beginner]
-- **Tools**: Git 💽 [starting]
-- **Databases**: PostgreSQL 💾 [starting]
+- **Languages**: Python  [intermediate]
+- **Frameworks**: Django ⌨ [beginner]
+- **Tools**: Git  [beginner]
+- **Databases**: PostgreSQL  [starting]
 
 ## 🌟 Projects
 
