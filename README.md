@@ -15,12 +15,17 @@ I'm an aspiring software developer based in London. I have a passion for solving
 
 ## 🌟 Projects
 
-<!-- Here are some of my notable -->
 Project(s):
 
 - [AI Snake Game]([link to project](https://github.com/8ARTEZZIO/Snake-Game)): It's a simple self-playing AI Snake Game wrote in Python.
 - [Pa**rd Mngr]([link to project](https://github.com/8ARTEZZIO/Password-Manager)): Looking for a simple Password Manager? Here it is :D
-- [CS50P Last Project]([link to project](https://github.com/me50/8ARTEZZIO)): My last project from the CS50P course.
+
+## 🏅 HackerRank Badges
+
+Here are some of my certifications and accomplishments on [HackerRank]([https://www.hackerrank.com/profile/b4rte4]):
+
+- ![Problem Solving Badge](https://hrcdn.net/community-frontend/assets/problem-solving-648b4dbb1d.svg) [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/example)
+- ![Python Badge](https://hrcdn.net/community-frontend/assets/python-48df28bb4f.svg) [Python (Intermediate)](https://www.hackerrank.com/certificates/example)
 
 ## 📫 Get in Touch
 
