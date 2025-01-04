@@ -22,7 +22,7 @@ Project(s):
 
 ## 🏅 HackerRank Badges
 
-Here are some of my certifications and accomplishments on ![HackerRank](https://www.hackerrank.com/profile/b4rte4):
+Here are some of my certifications and accomplishments on [HackerRank](https://www.hackerrank.com/profile/b4rte4):
 
 ![Screenshot 2025-01-04 133857](https://github.com/user-attachments/assets/77e64a5e-659c-456f-a594-191b6a0505a0)
 
