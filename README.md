@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bartek!
+![Screenshot 2025-01-04 133857](https://github.com/user-attachments/assets/9e18bb7d-e935-406a-a829-c1116105afca)# 👋 Hello, I'm Bartek!
 
 ![Profile View](https://github.com/8ARTEZZIO.png?size=200) <!-- Replace with your GitHub username -->
 
@@ -22,10 +22,9 @@ Project(s):
 
 ## 🏅 HackerRank Badges
 
-Here are some of my certifications and accomplishments on [HackerRank]([https://www.hackerrank.com/profile/b4rte4]):
+Here are some of my certifications and accomplishments on ![HackerRank](https://www.hackerrank.com/profile/b4rte4):
 
-- ![Problem Solving Badge](https://hrcdn.net/community-frontend/assets/problem-solving-648b4dbb1d.svg) [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/example)
-- ![Python Badge](https://hrcdn.net/community-frontend/assets/python-48df28bb4f.svg) [Python (Intermediate)](https://www.hackerrank.com/certificates/example)
+![Screenshot 2025-01-04 133857](https://github.com/user-attachments/assets/77e64a5e-659c-456f-a594-191b6a0505a0)
 
 ## 📫 Get in Touch
 
