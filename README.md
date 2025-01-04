@@ -19,7 +19,8 @@ I'm an aspiring software developer based in London. I have a passion for solving
 Project(s):
 
 - [AI Snake Game]([link to project](https://github.com/8ARTEZZIO/Snake-Game)): It's a simple self-playing AI Snake Game wrote in Python.
-- [Pa**rd Mngr]([link to project](https://github.com/8ARTEZZIO/Password-Manager)): Looking for a simple Password Manager? Here it is :D  
+- [Pa**rd Mngr]([link to project](https://github.com/8ARTEZZIO/Password-Manager)): Looking for a simple Password Manager? Here it is :D
+- [CS50P Last Project]([link to project](https://github.com/me50/8ARTEZZIO)): My last project from the CS50P course.
 
 ## 📫 Get in Touch
 
@@ -28,8 +29,8 @@ Project(s):
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=8ARTEZZIO&show_icons=true&hide_title=true) <!-- Replace with your GitHub username -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8ARTEZZIO&layout=compact) <!-- Replace with your GitHub username -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=8ARTEZZIO&show_icons=true&hide_title=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8ARTEZZIO&layout=compact) 
 
 ## 🏆 Achievements
 
