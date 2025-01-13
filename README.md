@@ -39,6 +39,7 @@ Here are some of my certifications and accomplishments on [HackerRank](https://w
 ## 🏆 Achievements
 
 - [UDEMY: The Complete Python Bootcamp From Zero to Hero in Python]
+- [CS50: CS50's Introduction to Programming with Python]
 
 ## 🙌 Support Me
 
@@ -47,4 +48,3 @@ If you find my work helpful, consider starring my repositories or following me f
 ---
 
 Thanks for visiting my profile! Let's connect and build something amazing together! 😊
-![UC-2c9c2cb7-7be5-41ef-a2eb-ce637e9c8c1d](https://github.com/user-attachments/assets/611b53d2-3919-4afa-9aaf-1df764ab0c45)
