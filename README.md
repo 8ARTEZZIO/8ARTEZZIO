@@ -39,7 +39,7 @@ Here are some of my certifications and accomplishments on [HackerRank](https://w
 ## 🏆 Achievements
 
 - [UDEMY: The Complete Python Bootcamp From Zero to Hero in Python by Jose Portilla]
-- [CS50: CS50's Introduction to Programming with Python]
+- [HARVARD: CS50's Introduction to Programming with Python]
 - [UDEMY: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu]
 
 ## 🙌 Support Me
