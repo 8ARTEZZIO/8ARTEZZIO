@@ -8,10 +8,10 @@ I'm an aspiring software developer based in London. I have a passion for solving
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python  [intermediate]
-- **Frameworks**: Django ⌨ [beginner]
-- **Tools**: Git  [beginner]
-- **Databases**: PostgreSQL  [starting]
+- **Languages**: Python
+- **Frameworks**: Flask
+- **Tools**: Git
+- **Databases**: PostgreSQL, SQLite, MongoDB
 
 ## 🌟 Projects
 
@@ -38,8 +38,9 @@ Here are some of my certifications and accomplishments on [HackerRank](https://w
 
 ## 🏆 Achievements
 
-- [UDEMY: The Complete Python Bootcamp From Zero to Hero in Python]
+- [UDEMY: The Complete Python Bootcamp From Zero to Hero in Python by Jose Portilla]
 - [CS50: CS50's Introduction to Programming with Python]
+- [UDEMY: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu]
 
 ## 🙌 Support Me
 
