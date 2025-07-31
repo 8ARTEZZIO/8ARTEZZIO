@@ -10,6 +10,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=8ARTEZZIO.8ARTEZZIO" alt="visitors"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AB489&center=true&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Bartlomiej;Code.+Coffee.+Calisthenics.;Turning+ideas+into+APIs;Let's+connect!)](https://git.io/typing-svg)
+
 ## About Me
 
 I'm an aspiring software developer based in London. I have a passion for solving problems by using Python. When I'm not coding, you can find me at the gym or in a local park.
