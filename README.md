@@ -56,17 +56,6 @@
   </tr>
 </table>
 
-## About Me
-
-I'm an aspiring software developer based in London. I have a passion for solving problems by using Python. When I'm not coding, you can find me at the gym or in a local park.
-
-## 🛠️ Technologies & Tools
-
-- **Languages**: Python
-- **Frameworks**: Flask
-- **Tools**: Git
-- **Databases**: PostgreSQL, SQLite, MongoDB
-
 ## 🌟 Projects
 
 Project(s):
