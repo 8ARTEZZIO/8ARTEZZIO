@@ -1,4 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="854" height="200" viewBox="0 0 854 200">
+  <defs>
+    <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9F6FFF"/>
+      <stop offset="50%" stop-color="#49D3FE"/>
+      <stop offset="100%" stop-color="#2DE3B7"/>
+    </linearGradient>
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="10%" stop-color="#49D3FE"/>
+      <stop offset="90%" stop-color="#2DE3B7"/>
+    </linearGradient>
+  </defs>
   <style>
     .main-text {
       font-size: 58px;
@@ -17,49 +28,15 @@
       letter-spacing: 0.7px;
     }
   </style>
-
-  <defs>
-    <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#9F6FFF"/>
-      <stop offset="50%" stop-color="#49D3FE"/>
-      <stop offset="100%" stop-color="#2DE3B7"/>
-    </linearGradient>
-    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="10%" stop-color="#49D3FE"/>
-      <stop offset="90%" stop-color="#2DE3B7"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Wavy Animated Background -->
-  <g>
-    <path d="" fill="url(#wave-gradient)" opacity="0.43">
-      <animate attributeName="d" dur="12s" repeatCount="indefinite"
-        keyTimes="0;0.33;0.67;1"
-        values="
-          M0 0L 0 130Q 200 160 427 110T 854 150L 854 0 Z;
-          M0 0L 0 155Q 230 130 427 140T 854 120L 854 0 Z;
-          M0 0L 0 150Q 230 190 427 120T 854 160L 854 0 Z;
-          M0 0L 0 130Q 200 160 427 110T 854 150L 854 0 Z" />
-    </path>
-    <path d="" fill="url(#wave-gradient)" opacity="0.23">
-      <animate attributeName="d" dur="12s" repeatCount="indefinite"
-        keyTimes="0;0.33;0.67;1"
-        begin="-6s"
-        values="
-          M0 0L 0 140Q 160 130 427 130T 854 135L 854 0 Z;
-          M0 0L 0 130Q 240 150 427 125T 854 120L 854 0 Z;
-          M0 0L 0 145Q 170 180 427 145T 854 140L 854 0 Z;
-          M0 0L 0 140Q 160 130 427 130T 854 135L 854 0 Z" />
-    </path>
-  </g>
-
+  <!-- Static wavy background -->
+  <path d="M0 0L 0 130Q 200 160 427 110T 854 150L 854 0 Z" fill="url(#wave-gradient)" opacity="0.43"/>
+  <path d="M0 0L 0 140Q 160 130 427 130T 854 135L 854 0 Z" fill="url(#wave-gradient)" opacity="0.23"/>
   <!-- Main Text -->
   <text text-anchor="middle" alignment-baseline="middle" x="50%" y="45%" class="main-text">
     Welcome, Backend Devs!
   </text>
-
   <!-- Subtitle -->
   <text text-anchor="middle" alignment-baseline="middle" x="50%" y="66%" class="subtitle">
-    Building APIs & logic.
+    Building APIs &amp; logic.
   </text>
 </svg>
