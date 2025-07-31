@@ -1,4 +1,4 @@
-[![Welcome Backend Devs Banner](assets/main_banner.svg)]
+<img src="assets/main_banner.svg" alt="Welcome Backend Devs Banner" width="854" height="200"/>
 
 ## About Me
 
