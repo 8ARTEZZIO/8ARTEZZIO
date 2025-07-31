@@ -1,4 +1,4 @@
-![](assets/main_banner.svg)
+[![Welcome Backend Devs Banner](assets/main_banner.svg)]
 
 ## About Me
 
