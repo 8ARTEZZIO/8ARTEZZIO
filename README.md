@@ -1,6 +1,4 @@
-Hello, I'm Bartek!
-
-![Profile View](https://github.com/8ARTEZZIO.png?size=200) <!-- Replace with your GitHub username -->
+![](assets/main_banner.svg)
 
 ## About Me
 
