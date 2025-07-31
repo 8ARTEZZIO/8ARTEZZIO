@@ -1,5 +1,15 @@
 <img src="assets/main_banner.svg" alt="Welcome Backend Devs Banner" width="854" height="200"/>
 
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/8ARTEZZIO/8ARTEZZIO"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/8ARTEZZIO/8ARTEZZIO/graphs/contributors"><img src="https://img.shields.io/github/contributors/8ARTEZZIO/8ARTEZZIO?color=blue"></a>
+    <a href="https://github.com/8ARTEZZIO/8ARTEZZIO/stargazers"><img src="https://img.shields.io/github/stars/8ARTEZZIO/8ARTEZZIO.svg?logo=github"></a>
+    <a href="https://github.com/8ARTEZZIO/8ARTEZZIO/network/members"><img src="https://img.shields.io/github/forks/8ARTEZZIO/8ARTEZZIO.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=8ARTEZZIO.8ARTEZZIO" alt="visitors"/>
+</p>
+
 ## About Me
 
 I'm an aspiring software developer based in London. I have a passion for solving problems by using Python. When I'm not coding, you can find me at the gym or in a local park.
