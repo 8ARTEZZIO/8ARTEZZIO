@@ -1,22 +1,34 @@
-<img src="assets/main_banner.svg" alt="Welcome Backend Devs Banner" width="854" height="200"/>
+<div align="center">
+  <img src="assets/main_banner.svg" alt="Welcome Backend Devs Banner" width="854" height="200"/>
 
-<!-- badges -->
-<p align="center">
-    <a href="https://github.com/8ARTEZZIO/8ARTEZZIO"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="Status: updating"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg" alt="Python 3.12"></a>
-    <a href="https://github.com/8ARTEZZIO/8ARTEZZIO/graphs/contributors"><img src="https://img.shields.io/github/contributors/8ARTEZZIO/8ARTEZZIO?color=blue" alt="Contributors"></a>
-    <a href="https://github.com/8ARTEZZIO/8ARTEZZIO/stargazers"><img src="https://img.shields.io/github/stars/8ARTEZZIO/8ARTEZZIO.svg?logo=github" alt="Stars"></a>
-    <a href="https://github.com/8ARTEZZIO/8ARTEZZIO/network/members"><img src="https://img.shields.io/github/forks/8ARTEZZIO/8ARTEZZIO.svg?color=blue&logo=github" alt="Forks"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=8ARTEZZIO.8ARTEZZIO" alt="Visitors"/>
-</p>
+  <!-- badges -->
+  <p align="center">
+      <a href="https://github.com/8ARTEZZIO/8ARTEZZIO"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="Status: updating"></a>
+      <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg" alt="Python 3.12"></a>
+      <a href="https://github.com/8ARTEZZIO/8ARTEZZIO/graphs/contributors"><img src="https://img.shields.io/github/contributors/8ARTEZZIO/8ARTEZZIO?color=blue" alt="Contributors"></a>
+      <a href="https://github.com/8ARTEZZIO/8ARTEZZIO/stargazers"><img src="https://img.shields.io/github/stars/8ARTEZZIO/8ARTEZZIO.svg?logo=github" alt="Stars"></a>
+      <a href="https://github.com/8ARTEZZIO/8ARTEZZIO/network/members"><img src="https://img.shields.io/github/forks/8ARTEZZIO/8ARTEZZIO.svg?color=blue&logo=github" alt="Forks"></a>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=8ARTEZZIO.8ARTEZZIO" alt="Visitors"/>
+  </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AB489&center=true&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Bartlomiej;Code.+Coffee.+Calisthenics.;Turning+ideas+into+APIs;Let's+connect!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AB489&center=true&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Bartlomiej;Code.+Coffee.+Calisthenics.;Turning+ideas+into+APIs;Let's+connect!)](https://git.io/typing-svg)
+</div>
+
+## 📚 Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [🌟 Projects](#-projects)
+- [🏅 HackerRank Badges](#-hackerrank-badges)
+- [📫 Get in Touch](#-get-in-touch)
+- [📈 GitHub Stats](#-github-stats)
+- [🏆 Achievements](#-achievements)
+- [🙌 Support Me](#-support-me)
 
 ## About Me
 
-- Backend developer focused on building clean and efficient APIs.
-- Strong foundation in computer science and software development.
-- Coffee and calisthenics enthusiast.
+- 🛠️ Backend developer focused on building clean and efficient APIs.
+- 🎓 Strong foundation in computer science and software development.
+- ☕ Coffee and calisthenics enthusiast.
 
 ## Tech Stack
 
@@ -65,8 +77,8 @@
 
 ## 🌟 Projects
 
-- [AI Snake Game](https://github.com/8ARTEZZIO/Snake-Game): A self‑playing Snake game written in Python.
-- [Password Manager](https://github.com/8ARTEZZIO/Password-Manager): A lightweight password manager for secure credential storage.
+- 🐍 [AI Snake Game](https://github.com/8ARTEZZIO/Snake-Game): A self‑playing Snake game written in Python.
+- 🔐 [Password Manager](https://github.com/8ARTEZZIO/Password-Manager): A lightweight password manager for secure credential storage.
 
 ## 🏅 HackerRank Badges
 
@@ -83,12 +95,13 @@ Here are some of my certifications and accomplishments on [HackerRank](https://w
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=8ARTEZZIO&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8ARTEZZIO&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=8ARTEZZIO&theme=rogue)
 
 ## 🏆 Achievements
 
-- UDEMY: The Complete Python Bootcamp From Zero to Hero in Python by Jose Portilla
-- HARVARD: CS50's Introduction to Programming with Python
-- UDEMY: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
+- 🎓 UDEMY: The Complete Python Bootcamp From Zero to Hero in Python by Jose Portilla
+- 🎓 HARVARD: CS50's Introduction to Programming with Python
+- 🎓 UDEMY: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
 
 ## 🙌 Support Me
 
