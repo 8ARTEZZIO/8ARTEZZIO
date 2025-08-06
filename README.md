@@ -60,8 +60,8 @@
 
 Project(s):
 
-- [AI Snake Game]([link to project](https://github.com/8ARTEZZIO/Snake-Game)): It's a simple self-playing AI Snake Game wrote in Python.
-- [Pa**rd Mngr]([link to project](https://github.com/8ARTEZZIO/Password-Manager)): Looking for a simple Password Manager? Here it is :D
+- [AI Snake Game](https://github.com/8ARTEZZIO/Snake-Game): It's a simple self-playing AI Snake Game written in Python.
+- [Password Manager](https://github.com/8ARTEZZIO/Password-Manager): Looking for a simple Password Manager? Here it is :D
 
 ## 🏅 HackerRank Badges
 
@@ -71,8 +71,8 @@ Here are some of my certifications and accomplishments on [HackerRank](https://w
 
 ## 📫 Get in Touch
 
-- **Email**: [b4rte4@gmail.com]
-- **LinkedIn**: [[LinkedIn profile](https://www.linkedin.com/in/bartlomiej-kuzma-9327a52a9/)]
+- **Email**: [b4rte4@gmail.com](mailto:b4rte4@gmail.com)
+- **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/bartlomiej-kuzma-9327a52a9/)
 
 ## 📈 GitHub Stats
 
