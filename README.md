@@ -93,9 +93,9 @@ Here are some of my certifications and accomplishments on [HackerRank](https://w
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=8ARTEZZIO&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8ARTEZZIO&layout=compact)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=8ARTEZZIO&theme=rogue)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=8ARTEZZIO&show_icons=true&hide_title=true&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8ARTEZZIO&layout=compact&theme=chartreuse-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=8ARTEZZIO&theme=chartreuse-dark)
 
 ## 🏆 Achievements
 
