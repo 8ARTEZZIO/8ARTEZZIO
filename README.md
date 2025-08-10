@@ -77,8 +77,8 @@
 
 ## 🌟 Projects
 
-- 🐍 [AI Snake Game](https://github.com/8ARTEZZIO/Snake-Game): A self‑playing Snake game written in Python.
-- 🔐 [Password Manager](https://github.com/8ARTEZZIO/Password-Manager): A lightweight password manager for secure credential storage.
+- [AI Snake Game](https://github.com/8ARTEZZIO/Snake-Game): It's a simple self-playing AI Snake Game written in Python.
+- [Password Manager](https://github.com/8ARTEZZIO/Password-Manager): Looking for a simple Password Manager? Here it is :D
 
 ## 🏅 HackerRank Badges
 
