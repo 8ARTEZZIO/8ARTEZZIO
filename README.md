@@ -27,7 +27,6 @@
 ## About Me
 
 - 🛠️ Backend developer focused on building clean and efficient APIs.
-- 🎓 Strong foundation in computer science and software development.
 - ☕ Coffee and calisthenics enthusiast.
 
 ## Tech Stack
