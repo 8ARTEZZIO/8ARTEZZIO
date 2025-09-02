@@ -76,8 +76,12 @@
 
 Here are some of my certifications and accomplishments:
 
-<img src="assets/hackerrankcerts.png"/>
-<img src="assets/linkedincerts.png"/>
+<div align="center">
+  <img src="assets/hackerrankcerts.png" style="border-radius:12px;" /> 
+</div>
+<div align="center">
+  <img src="assets/linkedincerts.png" style="border-radius:12px;" />
+</div>
 
 ## Get in Touch
 
@@ -94,7 +98,6 @@ Here are some of my certifications and accomplishments:
 
 - 🎓 UDEMY: The Complete Python Bootcamp From Zero to Hero in Python by Jose Portilla
 - 🎓 HARVARD: CS50's Introduction to Programming with Python
-- 🎓 UDEMY: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
 
 ## Support Me
 
