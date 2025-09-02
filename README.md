@@ -76,7 +76,8 @@
 
 Here are some of my certifications and accomplishments:
 
-![HackerRank Badges](https://github.com/user-attachments/assets/77e64a5e-659c-456f-a594-191b6a0505a0)
+<img src="assets/hackerrankcerts.png"/>
+<img src="assets/linkedincerts.png"/>
 
 ## Get in Touch
 
