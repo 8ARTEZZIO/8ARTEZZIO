@@ -18,7 +18,7 @@
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
 - [Projects](#projects)
-- [HackerRank Badges](#hackerrank-badges)
+- [Badges](#badges)
 - [Get in Touch](#get-in-touch)
 - [GitHub Stats](#github-stats)
 - [Achievements](#-achievements)
@@ -72,9 +72,9 @@
 
 - [Scalable Ecom APP](https://github.com/8ARTEZZIO/scalable-ecommerce-app): A self‑playing Snake game written in Python.
 
-## HackerRank Badges
+## Badges
 
-Here are some of my certifications and accomplishments on [HackerRank](https://www.hackerrank.com/profile/b4rte4):
+Here are some of my certifications and accomplishments:
 
 ![HackerRank Badges](https://github.com/user-attachments/assets/77e64a5e-659c-456f-a594-191b6a0505a0)
 
