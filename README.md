@@ -70,7 +70,7 @@
 
 ## Projects
 
-- [Scalable Ecom APP](https://github.com/8ARTEZZIO/scalable-ecommerce-app): A self‑playing Snake game written in Python.
+- [Scalable Ecom APP](https://github.com/8ARTEZZIO/scalable-ecommerce-app): E-com Web App
 
 ## Badges
 
